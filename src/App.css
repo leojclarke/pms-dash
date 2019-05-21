@@ -36,6 +36,11 @@ body {
   }
 }
 
+.ScoreCards-Container {
+  display: flex;
+  justify-content: flex-start;
+}
+
 .scoreCard-container {
   width: 300px;
   height: 150px;
