@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 export default function ScoreCard(props) {
   const { title, value, dateFrom, dateTo } = props;
@@ -12,3 +13,14 @@ export default function ScoreCard(props) {
     </div>
   );
 }
+
+ScoreCard.propTypes = {
+  /** title of the ScoreCard */
+  title: PropTypes.string,
+  /** number of tickets in set category */
+  value: PropTypes.string,
+  /** start date */
+  dateFrom: PropTypes.string,
+  /** end date */
+  dateTo: PropTypes.string,
+};
