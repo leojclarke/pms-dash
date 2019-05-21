@@ -20,6 +20,14 @@ function App() {
         dateFrom="01.01.2019"
         dateTo="01.05.2019"
       />
+
+      <ScoreCard
+        title="tickets closed"
+        value="5"
+        type="closed"
+        dateFrom="01.01.2019"
+        dateTo="01.05.2019"
+      />
     </section>
   );
 }

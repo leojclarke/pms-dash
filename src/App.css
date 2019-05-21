@@ -38,7 +38,7 @@ body {
 
 .ScoreCards-Container {
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-evenly;
 }
 
 .scoreCard-container {
