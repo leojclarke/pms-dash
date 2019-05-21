@@ -1,3 +1,7 @@
+body {
+  padding: 20px;
+}
+
 .App {
   text-align: center;
 }
@@ -30,4 +34,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.scoreCard-container {
+  width: 300px;
+  height: 150px;
+  border: 2px solid #000;
+  background: #eee;
+}
+
+.scoreCard-title {
+  padding-left: 5px;
+  margin-top: 5px;
+  font-size: 1em;
+  text-align: left;
+}
+
+.scoreCard-value {
+  align-items: center;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.scoreCard-date {
+  font-size: 0.8em;
+  text-align: center;
 }
