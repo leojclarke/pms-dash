@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const ScoreCard = styled.div`
   width: 300px;
   height: 150px;
-  margin-left: 20px;
+  margin: 10px 5px;
   border: 2px solid #000;
   background: #eee;
 `;

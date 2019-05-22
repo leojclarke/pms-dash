@@ -1,0 +1,874 @@
+{
+  "9c97e3cc-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30257",
+        "description": "Herr Köster meldet: Display 1 fällt immer wieder aus (oft abends gegen 18:00)",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10588",
+        "name": "260",
+        "device_name": "JET-D1 260",
+        "uuid": "9c97e3cc-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "dispatch",
+        "name_de": "Versandfertig"
+      }
+    }
+  ],
+  "9c30c579-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30235",
+        "description": "Bei Einsatz #29915\r\nGrafikausgang 1 defekt\r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5291",
+        "name": "367",
+        "device_name": "JET-D 367",
+        "uuid": "9c30c579-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    },
+    {
+      "Ticket": {
+        "id": "29915",
+        "description": "ADM Schröder 01724004623 \r\nLinker Bildschirm ausgefallen - Zeigt kein Signal / LG Logo \r\n\r\n",
+        "hide_in_ps_next": true
+      },
+      "System": {
+        "id": "5291",
+        "name": "367",
+        "device_name": "JET-D 367",
+        "uuid": "9c30c579-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "waiting_for_refusal",
+        "name_de": "Warten a. Rückl."
+      }
+    }
+  ],
+  "9c2de18f-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30222",
+        "description": "Kundin meldet: Display 1 ist schwarz.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5103",
+        "name": "179",
+        "device_name": "JET-D 179",
+        "uuid": "9c2de18f-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "4369cbfe-7b79-11e7-a0e1-00163e080c7b": [
+    {
+      "Ticket": {
+        "id": "30227",
+        "description": "Kundin meldet: Display 3 und 5 sind ausgefallen.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "11074",
+        "name": "207",
+        "device_name": "JET-D1 207",
+        "uuid": "4369cbfe-7b79-11e7-a0e1-00163e080c7b"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c928091-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30203",
+        "description": "Frau Weiß meldet: Bildschirme schwarz, Neustart erfolglos",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10265",
+        "name": "147",
+        "device_name": "JET-D1 147",
+        "uuid": "9c928091-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c911c7e-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30183",
+        "description": "Kunde meldet: Die Monitore zeigen den Desktop ",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10180",
+        "name": "070",
+        "device_name": "JET-D1 070",
+        "uuid": "9c911c7e-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c301b0c-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30151",
+        "description": "Kunde meldet: Die Monitore sind schwarz.\r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5259",
+        "name": "335",
+        "device_name": "JET-D 335",
+        "uuid": "9c301b0c-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "7ecfa2ad-b027-11e8-a85a-00163ec186d2": [
+    {
+      "Ticket": {
+        "id": "30126",
+        "description": "ADM Herr Herrnsdorf meldet, Display 1 ist erneut ausgefallen.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "13417",
+        "name": "334",
+        "device_name": "JET-D1 334",
+        "uuid": "7ecfa2ad-b027-11e8-a85a-00163ec186d2"
+      },
+      "Status": {
+        "name": "extern",
+        "name_de": "Ext. Service"
+      }
+    }
+  ],
+  "9c3c46cd-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30095",
+        "description": "Kunde: Monitore sind schwarz. \r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5920",
+        "name": "432",
+        "device_name": "JET-D 432",
+        "uuid": "9c3c46cd-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c983552-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30090",
+        "description": "Voicemail: Störung bei den Monitioren.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10615",
+        "name": "186",
+        "device_name": "JET-D1 186",
+        "uuid": "9c983552-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c2c0f9d-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "30036",
+        "description": "Frau Gülding: \r\nSeit gestern alle 3 Displays schwarz.\r\nSie hat heute ein \"ploppen\" vom System gehört - ggf. Sicherung?!?!\r\n\r\nKomfortschalter leuchte rot \r\nSie versucht den Komfortschalter (der sehr hoch ist) zu erreichen und meldet sich. ",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "4967",
+        "name": "043",
+        "device_name": "JET-D 043",
+        "uuid": "9c2c0f9d-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "bc93de71-b027-11e8-a85a-00163ec186d2": [
+    {
+      "Ticket": {
+        "id": "30028",
+        "description": "Herr Teichmeier: Display 1 ist komplett schwarz.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "13418",
+        "name": "335",
+        "device_name": "JET-D1 335",
+        "uuid": "bc93de71-b027-11e8-a85a-00163ec186d2"
+      },
+      "Status": {
+        "name": "waiting_for_refusal",
+        "name_de": "Warten a. Rückl."
+      }
+    }
+  ],
+  "9c90b738-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29997",
+        "description": "Herr Otto meldet, Werbung läuft nicht. ",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10141",
+        "name": "038",
+        "device_name": "JET-D1 038",
+        "uuid": "9c90b738-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c2d013f-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29895",
+        "description": "Herr Ulrich meldet: seit heute morgen auf den zwei rechten Bildschirmen eine Fehlermeldung \"Windows Boot Manager\", die anderen sind schwarz\r\nMehrfacher Neustart brachte keine Änderung.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5022",
+        "name": "098",
+        "device_name": "JET-D 098",
+        "uuid": "9c2d013f-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "waiting_for_refusal",
+        "name_de": "Warten a. Rückl."
+      }
+    }
+  ],
+  "9c31021e-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29885",
+        "description": "Frau Hakenson: Die Bildschirme fallen immer wieder aus.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5314",
+        "name": "390",
+        "device_name": "JET-D 390",
+        "uuid": "9c31021e-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c2bd1af-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29855",
+        "description": "Frau Mieth: Die Monitore sind schwarz.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "4947",
+        "name": "023",
+        "device_name": "JET-D 023",
+        "uuid": "9c2bd1af-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c2f1102-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29846",
+        "description": "ADM meldet: Der Monitor links ist schwarz. ",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5174",
+        "name": "250",
+        "device_name": "JET-D 250",
+        "uuid": "9c2f1102-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "waiting_for_refusal",
+        "name_de": "Warten a. Rückl."
+      }
+    }
+  ],
+  "9c910fd4-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29836",
+        "description": "beide Displays schwarz\r\n\r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10175",
+        "name": "065",
+        "device_name": "JET-D1 065",
+        "uuid": "9c910fd4-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c9285af-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29817",
+        "description": "Herr Ködma: Die Monitore zeigen den Desktop",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10267",
+        "name": "149",
+        "device_name": "JET-D1 149",
+        "uuid": "9c9285af-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "extern",
+        "name_de": "Ext. Service"
+      }
+    }
+  ],
+  "9c2fa008-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29801",
+        "description": "Kundin meldet: Die Monitore sind ausgefallen",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5226",
+        "name": "302",
+        "device_name": "JET-D 302",
+        "uuid": "9c2fa008-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c2bde05-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29784",
+        "description": "Frau Groß meldet: Die Monitore sind ausgefallen",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "4952",
+        "name": "028",
+        "device_name": "JET-D 028",
+        "uuid": "9c2bde05-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c7ab07c-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29762",
+        "description": "Kundin meldet: Die Monitore sind ausgefallen.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "9123",
+        "name": "015",
+        "device_name": "JET-D1 015",
+        "uuid": "9c7ab07c-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c910830-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29730",
+        "description": "Frau Allersmeyer: Bildschirme: einer schwarz, einer BSOD: 0x0000000ED\r\nSystem offline, Ping i.O., VNC nicht möglich. Komfortschalter nicht auffindbar.\r\nBSOD bleibt nach Neustart des Rechners. Bildschirme reagieren beide.\r\n\r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10172",
+        "name": "062",
+        "device_name": "JET-D1 062",
+        "uuid": "9c910830-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "maintenance",
+        "name_de": "Reparatur"
+      }
+    }
+  ],
+  "9c2dcff7-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29709",
+        "description": "Kundin\r\nalle 3 Displays schwarz\r\nPowerCylce ohne Reaktion",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5096",
+        "name": "172",
+        "device_name": "JET-D 172",
+        "uuid": "9c2dcff7-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c927b60-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29694",
+        "description": "Frau Oberer: 2 Bildschirme sind schwarz. 1 Bildschirm zeigt eine Bluescreen :\r\n\r\n0x00000ED ",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10263",
+        "name": "145",
+        "device_name": "JET-D1 145",
+        "uuid": "9c927b60-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "maintenance",
+        "name_de": "Reparatur"
+      }
+    }
+  ],
+  "a7b1b392-157c-11e9-a85a-00163ec186d2": [
+    {
+      "Ticket": {
+        "id": "29673",
+        "description": "Herr Janas: Die Werbung läuft nicht.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "14012",
+        "name": "359",
+        "device_name": "JET-D1 359",
+        "uuid": "a7b1b392-157c-11e9-a85a-00163ec186d2"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "fb92e8c0-4c82-11e9-aa55-00163ef23873": [
+    {
+      "Ticket": {
+        "id": "29569",
+        "description": "Herr Milojevic: Display 3 ist ausgefallen.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "14280",
+        "name": "374",
+        "device_name": "JET-D1 374",
+        "uuid": "fb92e8c0-4c82-11e9-aa55-00163ef23873"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c2d68b5-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29564",
+        "description": "Kunde meldet: Die Monitore sind ausgefallen.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5057",
+        "name": "133",
+        "device_name": "JET-D 133",
+        "uuid": "9c2d68b5-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c2e3bbc-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29563",
+        "description": "Kunde meldet: Die Monitore sind ausgefallen.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5122",
+        "name": "198",
+        "device_name": "JET-D 198",
+        "uuid": "9c2e3bbc-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "waiting_for_refusal",
+        "name_de": "Warten a. Rückl."
+      }
+    }
+  ],
+  "9c90c839-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29520",
+        "description": "Herr Breuer \r\nauf Display 2 sind vertikale Streifen zu sehen - auch nach Neustart keine Änderung.\r\n\r\n01575-9479999",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10147",
+        "name": "044",
+        "device_name": "JET-D1 044",
+        "uuid": "9c90c839-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "rma",
+        "name_de": "RMA"
+      }
+    }
+  ],
+  "9c924861-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29475",
+        "description": "Kunde meldet: Display 3 und 4 sind schwarz. \r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10247",
+        "name": "129",
+        "device_name": "JET-D1 129",
+        "uuid": "9c924861-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "maintenance",
+        "name_de": "Reparatur"
+      }
+    }
+  ],
+  "9c2f08c1-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29473",
+        "description": "Herr Stenzel: Display 3 und 5 starten und stoppen ständig. ",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5171",
+        "name": "247",
+        "device_name": "JET-D 247",
+        "uuid": "9c2f08c1-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c9269b7-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29431",
+        "description": "Frau Griesa meldet: zweite Display von links schwarz\r\nNeustart wurde bereits durchgeführt, ohne Erfolg.\r\nErneuter Neustart: Display reagiert gar nicht, kein backlight\r\nVersehentliches Ausschalten wird ausgeschlossen, ebenfalls keine gelösten Stecker o.ä.\r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10257",
+        "name": "139",
+        "device_name": "JET-D1 139",
+        "uuid": "9c9269b7-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "rma",
+        "name_de": "RMA"
+      }
+    }
+  ],
+  "9c745c9c-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29412",
+        "description": "Kundin meldet: \r\nStopp-Meldung 0x0000007E",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "8747",
+        "name": "492",
+        "device_name": "JET-D 492",
+        "uuid": "9c745c9c-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "maintenance",
+        "name_de": "Reparatur"
+      }
+    }
+  ],
+  "9c2ff118-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29409",
+        "description": "Herr Cangegillo meldet: Heute permanente Probleme mit dem PC: Ausfall des Spots mit Desktop \r\n\r\nDie ganze Zeit haben Display 3+5 rote Schreifen",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5250",
+        "name": "326",
+        "device_name": "JET-D 326",
+        "uuid": "9c2ff118-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c92b8e4-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29365",
+        "description": "Hallo Herr Berlin,\r\n \r\nbitte zeitnah die Regalscreens und den Tresenscreen demontieren und an PMS zurückführen.\r\nBitte mit dem Kunden absprechen und mir den Termin mitteilen.\r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10279",
+        "name": "161",
+        "device_name": "JET-D1 161",
+        "uuid": "9c92b8e4-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "on_hold",
+        "name_de": "On Hold"
+      }
+    }
+  ],
+  "9c30d6b9-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29308",
+        "description": "Kundin: Regalsystem ausgefallen\r\nAuf Display 3 steht \"Keine Kabelverbindung\" - die anderen Displays sind schwarz\r\n\r\nPing ja - VNC nein\r\nPC aus? \r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5298",
+        "name": "374",
+        "device_name": "JET-D 374",
+        "uuid": "9c30d6b9-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c698f30-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29203",
+        "description": "Frau Phillips meldet: Desktop zu sehen",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "8315",
+        "name": "476",
+        "device_name": "JET-D 476",
+        "uuid": "9c698f30-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c30c2fb-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "29161",
+        "description": "Kunde\r\nBoot-Loop",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5290",
+        "name": "366",
+        "device_name": "JET-D 366",
+        "uuid": "9c30c2fb-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "processing",
+        "name_de": "Bearbeitung"
+      }
+    }
+  ],
+  "9c84246f-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "28999",
+        "description": "Kundin meldet: 3 Monitore sind schwarz. ",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "9569",
+        "name": "018",
+        "device_name": "JET-D1 018",
+        "uuid": "9c84246f-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "hardware_needed",
+        "name_de": "Hardw. benötigt"
+      }
+    }
+  ],
+  "9c2d865d-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "28949",
+        "description": "Frau Heim meldet: Display 3 und 5 flackern und werden dann schwarz.",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5069",
+        "name": "145",
+        "device_name": "JET-D 145",
+        "uuid": "9c2d865d-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "maintenance",
+        "name_de": "Reparatur"
+      }
+    }
+  ],
+  "9c2faedb-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "28889",
+        "description": "CB: 4. Display in links hat einen Bildfehler - Schriftzug eingebrannt \r\n \r\nMit dem Chef besprochen ",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "5232",
+        "name": "308",
+        "device_name": "JET-D 308",
+        "uuid": "9c2faedb-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "waiting_for_refusal",
+        "name_de": "Warten a. Rückl."
+      }
+    }
+  ],
+  "9c982820-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "28229",
+        "description": "*** UMBAU & UMFIRMIERUNG ***\r\n\r\nKunde meldet Umbau: ca. 4-6 Wochen (bis KW 10 Anfang März 2019)\r\n\r\nVertrag mit JET beendet, wird jetzt freie Tankstelle\r\n\r\nKlärung mit REE ob Standort weiter betreut wird\r\n\r\nJET-D1 & JETv4\r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10611",
+        "name": "182",
+        "device_name": "JET-D1 182",
+        "uuid": "9c982820-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "administration",
+        "name_de": "Verwaltung"
+      }
+    }
+  ],
+  "9c92068a-5ca2-11e7-abcd-00163e11d868": [
+    {
+      "Ticket": {
+        "id": "28177",
+        "description": "Kunde meldet: Die Bildschirme sind ausgefallen",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "10227",
+        "name": "117",
+        "device_name": "JET-D1 117",
+        "uuid": "9c92068a-5ca2-11e7-abcd-00163e11d868"
+      },
+      "Status": {
+        "name": "maintenance",
+        "name_de": "Reparatur"
+      }
+    }
+  ],
+  "38c3af5d-d674-11e7-b76d-00163e6c0d18": [
+    {
+      "Ticket": {
+        "id": "23752",
+        "description": "Herr Buhl meldet: Display 3 merklich dunkler als die anderen.\r\n\r\nBild per E-Mail angefordert, siehe Anhang.\r\n",
+        "hide_in_ps_next": false
+      },
+      "System": {
+        "id": "11977",
+        "name": "254",
+        "device_name": "JET-D1 254",
+        "uuid": "38c3af5d-d674-11e7-b76d-00163e6c0d18"
+      },
+      "Status": {
+        "name": "rma",
+        "name_de": "RMA"
+      }
+    }
+  ]
+}

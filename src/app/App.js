@@ -1,12 +1,12 @@
 import React from 'react';
 import styled from 'styled-components';
 import GlobalStyles from '../misc/GlobalStyles';
-import './App.css';
 import ScoreCardTemplate from './components/ScoreCard';
 
 const ScoreCardContainer = styled.section`
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
 `;
 
 function App() {
