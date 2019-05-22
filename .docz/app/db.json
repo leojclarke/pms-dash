@@ -1,6 +1,6 @@
 {
   "config": {
-    "title": "Pms Dash",
+    "title": "Pms Dashboard",
     "description": "My awesome app using docz",
     "menu": [],
     "version": "0.1.0",
@@ -12,7 +12,26 @@
   },
   "entries": [
     {
-      "key": "src/ScoreCard.mdx",
+      "key": "src/index.mdx",
+      "value": {
+        "name": "PMS Dashboard",
+        "route": "/",
+        "id": "6576455a124f9aaefd860597f03a8fe4",
+        "filepath": "src/index.mdx",
+        "link": "",
+        "slug": "src-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "welcome-to-the-living-styleguide-for-pms-dashboard",
+            "depth": 1,
+            "value": "Welcome to the living styleguide for PMS Dashboard"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/app/components/ScoreCard.mdx",
       "value": {
         "0": "S",
         "1": "c",
@@ -23,11 +42,11 @@
         "6": "a",
         "7": "r",
         "8": "d",
-        "id": "93651a8f3ef33d35bddeb4e36694d314",
-        "filepath": "src/ScoreCard.mdx",
+        "id": "db7ada6f483e3413ebe07174ea84e6a0",
+        "filepath": "src/app/components/ScoreCard.mdx",
         "link": "",
-        "slug": "src-score-card",
-        "route": "/src-score-card",
+        "slug": "src-app-components-score-card",
+        "route": "/src-app-components-score-card",
         "name": "Score card",
         "menu": "",
         "headings": [
@@ -47,7 +66,7 @@
   ],
   "props": [
     {
-      "key": "src/App.js",
+      "key": "src/app/App.js",
       "value": [
         {
           "description": "",
@@ -58,7 +77,7 @@
       ]
     },
     {
-      "key": "src/ScoreCard.js",
+      "key": "src/app/components/ScoreCard.js",
       "value": [
         {
           "description": "",

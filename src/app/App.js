@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import ScoreCard from './ScoreCard';
+import ScoreCard from './components/ScoreCard';
+import GlobalStyles from '../misc/GlobalStyles';
 
 function App() {
   return (
