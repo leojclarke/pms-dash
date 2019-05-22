@@ -1,0 +1,90 @@
+{
+  "Location": {
+    "id": "488",
+    "name": "",
+    "address1": "Frauenmarkt 12",
+    "address2": "",
+    "city": "Großenhain",
+    "zipcode": "01558",
+    "focus_2015_id": "36",
+    "contact_person": "Frau Albrecht, Frau Brune",
+    "phone": "03522-528802",
+    "phone2": "",
+    "outletpkey": "000000000021m6gt",
+    "reekdnr": "1034092409",
+    "email": "",
+    "nielsen": "7",
+    "startup": null,
+    "guarantee_date_from": null,
+    "guarantee_date_to": null,
+    "contract_duration": null,
+    "reception": "",
+    "is_offline": false,
+    "has_carwash": false,
+    "shared_partnership_with_pm": false,
+    "obn": "162800",
+    "block": "01558 Großenhain, Frauenmarkt 12"
+  },
+  "Locationtype": {
+    "name": "REE FEH",
+    "id": "3"
+  },
+  "Customer": {
+    "companyname": "Eckert",
+    "customergroup_id": "180",
+    "id": "74",
+    "Customergroup": {
+      "name": "EGF Gruppe"
+    }
+  },
+  "Installer": {
+    "name": "Carstens",
+    "id": "4"
+  },
+  "Slide": {
+    "name": "VA21-MYBLU",
+    "id": "36"
+  },
+  "Focus2015": {
+    "id": "36",
+    "name": "DOWNTRADING"
+  },
+  "Fieldworker": {
+    "gender": "Frau",
+    "firstname": null,
+    "lastname": "Cichy",
+    "adorg_nr": null,
+    "phone": "0172-4021773",
+    "phone2": null,
+    "email": null,
+    "id": "4"
+  },
+  "System": [
+    {
+      "id": "8443",
+      "name": "353",
+      "device_name": "EGF-R 353",
+      "ip": "",
+      "uuid": "9c6b6053-5ca2-11e7-abcd-00163e11d868",
+      "systemtype_id": "47",
+      "manager_id": "9",
+      "location_id": "488",
+      "Systemtype": {
+        "id": "47",
+        "name": "EGF-R"
+      },
+      "Manager": {
+        "ip": "10.16.0.45",
+        "name": "EGF"
+      },
+      "Simcard": [],
+      "Ticket": [
+        {
+          "id": "28165",
+          "description": "Erneuter Versand: \r\n",
+          "system_id": "8443"
+        }
+      ]
+    }
+  ]
+}

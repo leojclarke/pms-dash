@@ -1,0 +1,18 @@
+`api/getLocations`: Get all Locations (containing systems),
+`api/getSystems`: Get all Systems,
+`api/getSystems?admin={name}`: Get Systems by name of Manager / Admin,
+`api/getSystems?admin_id={admin_id}`: Get Systems by id of Manager / Admin,
+`api/getSystems?admin_ip={admin_ip}`: Get Systems by IP of Manager / Admin,
+`api/getSystems?focus={focus_name}`: Get System with Focus by name,
+`api/getSystems?ip={ip}`: Get System by ip,
+`api/getSystems?location={location_name}`: Get System with Location by name,
+`api/getSystems?name={system_name}`: Get System by name,
+`api/getSystems?page={n}`: Page {n} of Systems,
+`api/getSystems?system_id={system_id}`: Get System by system_id,
+`api/getSystems?type=count`: Get total number of systems,
+`api/getSystems?uuid={uuid}`: Get System by uuid,
+`api/getTickets?admin_ip={admin_ip}|uuid={uuid}`: Get Tickets by IP of Manager/Admin or by uuid,
+`api/getTicketsOverview?status_id={2,3}|date_closed_from={yyyy-mm-dd}|date_closed_to={yyyy-mm-dd}|date_created_from={yyyy-mm-dd}|date_created_to={yyyy-mm-dd}`: Get Tickets for Dashboard,
+`api/updateManagers`: Post values to update Manger. Required: ip. Fields: name, version. Return JSON: [{system_id} => [response => {fail|success}, name => {manager_name}]],
+`api/updateSystems`: Post values to update Systems. Required: id, uuid. Fields: last_seen, manager_ip. Return JSON: [{system_id} => [response => {fail|success}, name => {system_name}]]
+
