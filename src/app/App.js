@@ -1,12 +1,11 @@
 import React from 'react';
 import './App.css';
-import ScoreCard from './components/ScoreCard';
-import styled-components from styled
+import ScoreCardTemplate from './components/ScoreCard';
 
 function App() {
   return (
     <section className="scorecards-container">
-      <ScoreCard
+      <ScoreCardTemplate
         title="new tickets"
         value="20"
         type="newTickets"
@@ -14,7 +13,7 @@ function App() {
         dateTo="01.05.2019"
       />
 
-      <ScoreCard
+      <ScoreCardTemplate
         title="tickets in progress"
         value="25"
         type="progressTickets"
@@ -22,7 +21,7 @@ function App() {
         dateTo="01.05.2019"
       />
 
-      <ScoreCard
+      <ScoreCardTemplate
         title="tickets closed"
         value="5"
         type="closedTickets"
