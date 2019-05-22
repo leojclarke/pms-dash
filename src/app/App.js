@@ -1,15 +1,15 @@
 import React from 'react';
 import './App.css';
 import ScoreCard from './components/ScoreCard';
-import GlobalStyles from '../misc/GlobalStyles';
+import styled-components from styled
 
 function App() {
   return (
-    <section className="ScoreCards-Container">
+    <section className="scorecards-container">
       <ScoreCard
         title="new tickets"
         value="20"
-        type="new"
+        type="newTickets"
         dateFrom="01.01.2019"
         dateTo="01.05.2019"
       />
@@ -17,7 +17,7 @@ function App() {
       <ScoreCard
         title="tickets in progress"
         value="25"
-        type="wip"
+        type="progressTickets"
         dateFrom="01.01.2019"
         dateTo="01.05.2019"
       />
@@ -25,7 +25,7 @@ function App() {
       <ScoreCard
         title="tickets closed"
         value="5"
-        type="closed"
+        type="closedTickets"
         dateFrom="01.01.2019"
         dateTo="01.05.2019"
       />

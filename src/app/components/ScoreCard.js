@@ -4,23 +4,23 @@ import PropTypes from 'prop-types';
 export default function ScoreCard(props) {
   const { title, value, dateFrom, dateTo } = props;
   return (
-    <div className="scoreCard-container">
-      <h5 className="scoreCard-title">{title}</h5>
-      <h3 className="scoreCard-value">{value}</h3>
-      <h5 className="scoreCard-date">
+    <div className="scorecard">
+      <h1 className="scorecard-title">{title}</h1>
+      <h2 className="scorecard-value">{value}</h2>
+      <h3 className="scorecard-date">
         {dateFrom} - {dateTo}
-      </h5>
+      </h3>
     </div>
   );
 }
 
 ScoreCard.propTypes = {
   /** title of the ScoreCard */
-  title: PropTypes.string,
+  title: PropTypes.string.isRequired,
   /** number of tickets in set category */
-  value: PropTypes.string,
+  value: PropTypes.number.isRequired,
   /** start date */
-  dateFrom: PropTypes.string,
+  dateFrom: PropTypes.string.isRequired,
   /** end date */
-  dateTo: PropTypes.string,
+  dateTo: PropTypes.string.isRequired,
 };

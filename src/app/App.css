@@ -27,32 +27,32 @@ body {
   color: #61dafb;
 }
 
-.ScoreCards-Container {
+.scorecards-container {
   display: flex;
   justify-content: space-evenly;
 }
 
-.scoreCard-container {
+.scorecard {
   width: 300px;
   height: 150px;
   border: 2px solid #000;
   background: #eee;
 }
 
-.scoreCard-title {
+.scorecard-title {
   padding-left: 5px;
   margin-top: 5px;
   font-size: 1em;
   text-align: left;
 }
 
-.scoreCard-value {
+.scorecard-value {
   align-items: center;
   text-align: center;
   font-size: 1.5em;
 }
 
-.scoreCard-date {
+.scorecard-date {
   font-size: 0.8em;
   text-align: center;
 }
