@@ -1,10 +1,18 @@
 import React from 'react';
+import styled from 'styled-components';
+import GlobalStyles from '../misc/GlobalStyles';
 import './App.css';
 import ScoreCardTemplate from './components/ScoreCard';
 
+const ScoreCardContainer = styled.section`
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+`;
+
 function App() {
   return (
-    <section className="scorecards-container">
+    <ScoreCardContainer>
+      <GlobalStyles />
       <ScoreCardTemplate
         title="new tickets"
         value="20"
@@ -28,7 +36,7 @@ function App() {
         dateFrom="01.01.2019"
         dateTo="01.05.2019"
       />
-    </section>
+    </ScoreCardContainer>
   );
 }
 

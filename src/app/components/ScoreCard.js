@@ -5,24 +5,30 @@ import styled from 'styled-components';
 const ScoreCard = styled.div`
   width: 300px;
   height: 150px;
+  margin-left: 20px;
   border: 2px solid #000;
   background: #eee;
 `;
 
 const ScoreCardTitle = styled.h1`
-  padding-left: 5px;
-  margin-top: 5px;
+  background: skyblue;
+  padding: 5px;
+  margin: 0;
   font-size: 1em;
   text-align: left;
 `;
 
 const ScoreCardValue = styled.h2`
+  background: rebeccapurple;
+  margin: 0;
   align-items: center;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 3em;
 `;
 
 const ScoreCardDate = styled.h3`
+  margin: 0;
+  background: orange;
   font-size: 0.8em;
   text-align: center;
 `;
