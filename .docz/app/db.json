@@ -1,0 +1,121 @@
+{
+  "config": {
+    "title": "Pms Dashboard",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "src/index.mdx",
+      "value": {
+        "name": "PMS Dashboard",
+        "route": "/",
+        "id": "6576455a124f9aaefd860597f03a8fe4",
+        "filepath": "src/index.mdx",
+        "link": "",
+        "slug": "src-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "welcome-to-the-living-styleguide-for-pms-dashboard",
+            "depth": 1,
+            "value": "Welcome to the living styleguide for PMS Dashboard"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/app/components/ScoreCard.mdx",
+      "value": {
+        "0": "S",
+        "1": "c",
+        "2": "o",
+        "3": "r",
+        "4": "e",
+        "5": "C",
+        "6": "a",
+        "7": "r",
+        "8": "d",
+        "id": "db7ada6f483e3413ebe07174ea84e6a0",
+        "filepath": "src/app/components/ScoreCard.mdx",
+        "link": "",
+        "slug": "src-app-components-score-card",
+        "route": "/src-app-components-score-card",
+        "name": "Score card",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "scorecard",
+            "depth": 1,
+            "value": "ScoreCard"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/app/App.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "App",
+          "methods": [],
+          "actualName": "App"
+        }
+      ]
+    },
+    {
+      "key": "src/app/components/ScoreCard.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "ScoreCard",
+          "methods": [],
+          "actualName": "ScoreCard",
+          "props": {
+            "title": {
+              "type": {
+                "name": "string"
+              },
+              "required": false,
+              "description": "title of the ScoreCard"
+            },
+            "value": {
+              "type": {
+                "name": "string"
+              },
+              "required": false,
+              "description": "number of tickets in set category"
+            },
+            "dateFrom": {
+              "type": {
+                "name": "string"
+              },
+              "required": false,
+              "description": "start date"
+            },
+            "dateTo": {
+              "type": {
+                "name": "string"
+              },
+              "required": false,
+              "description": "end date"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
